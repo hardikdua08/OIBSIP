@@ -54,12 +54,5 @@
       <img src="https://github.com/DarshanRaoG/OIBSIP/blob/main/NumberGuessingGame/output4.JPG" width="46%" >
     </p>
   
-  # Online Examination:
-  <p align="center">
-  
-      
-      <img src="https://github.com/DarshanRaoG/OIBSIP/blob/main/OnlineExamination/img/output5.JPG" width="48%" >
-      <img src="https://github.com/DarshanRaoG/OIBSIP/blob/main/OnlineExamination/img/output6.JPG" width="48%" ><br><br>
-      <img src="https://github.com/DarshanRaoG/OIBSIP/blob/main/OnlineExamination/img/output7.JPG" width="48%" >
-    </p>
+ 
     
